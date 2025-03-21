@@ -15,11 +15,8 @@ version:    24.12.3.10.30
 
 ###################################################### CONFIGURE YOUR TOOLS HERE ######################################################
 
-
-# Login Credentials for LinkedIn (Optional)
-username = "sooraj.bcss19@iba-suk.edu.pk"       # Enter your username in the quotes
-password = "PRb*t?xbLctFmZ9"           # Enter your password in the quotes
-
+username = ""
+password = ""
 
 ## Artificial Intelligence (Beta Not-Recommended)
 # Use AI
